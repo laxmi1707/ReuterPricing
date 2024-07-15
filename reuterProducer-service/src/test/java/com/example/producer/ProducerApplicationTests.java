@@ -8,6 +8,7 @@ class ProducerApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("run test");
 	}
 
 }
